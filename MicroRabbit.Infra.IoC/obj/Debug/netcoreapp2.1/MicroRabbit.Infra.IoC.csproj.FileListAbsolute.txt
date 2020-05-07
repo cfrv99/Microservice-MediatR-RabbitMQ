@@ -18,3 +18,9 @@ C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcorea
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.1\MicroRabbit.Infra.IoC.csproj.CopyComplete
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.1\MicroRabbit.Infra.IoC.dll
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.1\MicroRabbit.Infra.IoC.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.pdb

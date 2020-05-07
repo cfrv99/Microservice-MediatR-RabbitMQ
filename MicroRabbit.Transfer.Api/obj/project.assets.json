@@ -4696,6 +4696,10 @@
       "MicroRabbit.Transfer.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "MicroRabbit.Banking.Domain": "1.0.0",
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
         },

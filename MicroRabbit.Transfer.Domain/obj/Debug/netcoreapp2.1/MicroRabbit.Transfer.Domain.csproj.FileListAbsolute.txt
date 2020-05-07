@@ -7,3 +7,8 @@ C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\ne
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.dll
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.csproj.CopyComplete

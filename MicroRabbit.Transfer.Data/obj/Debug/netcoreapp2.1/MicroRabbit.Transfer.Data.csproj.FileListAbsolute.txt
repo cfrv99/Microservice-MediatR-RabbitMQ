@@ -13,3 +13,7 @@ C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netc
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.csproj.CopyComplete
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.dll
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb

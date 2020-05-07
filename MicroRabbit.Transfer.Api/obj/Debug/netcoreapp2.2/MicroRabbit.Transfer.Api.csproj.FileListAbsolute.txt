@@ -33,3 +33,5 @@ C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netco
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.csproj.CopyComplete
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.dll
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Api.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb

@@ -9,7 +9,11 @@ using MicroRabbit.Banking.Domain.Interfaces;
 using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.Bus;
 using MicroRabbit.Transfer.Application.Interfaces;
+using MicroRabbit.Transfer.Application.Services;
+using MicroRabbit.Transfer.Data.Context;
 using MicroRabbit.Transfer.Data.Repository;
+using MicroRabbit.Transfer.Domain.EventHandlers;
+using MicroRabbit.Transfer.Domain.Events;
 using MicroRabbit.Transfer.Domain.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -25,9 +29,12 @@ namespace MicroRabbit.Infra.IoC
             //Event Bus
             services.AddTransient<IEventBus, RabbitMqBus>();
 
+            //Domain Events
+            services.AddTransient<IEventHandler<TransferCreatedEvent>,TransferEventHandler>();
+
             //Application Inversion
             services.AddTransient<IAccountService, AccountService>();
-            services.AddTransient<ITransferService>
+            services.AddTransient<ITransferService, TransferService>();
 
             //MediatR
             services.AddTransient<IRequestHandler<CreateTransferCommand,bool>, TransferCommandHandler>();
@@ -36,6 +43,7 @@ namespace MicroRabbit.Infra.IoC
             services.AddTransient<IAccountRepository, AccountRepository>();
             services.AddTransient<ITransferRepository, TransferRepository>();
             services.AddTransient<BankingDbContext>();
+            services.AddTransient<TransferDbContext>();
         }
     }
 }

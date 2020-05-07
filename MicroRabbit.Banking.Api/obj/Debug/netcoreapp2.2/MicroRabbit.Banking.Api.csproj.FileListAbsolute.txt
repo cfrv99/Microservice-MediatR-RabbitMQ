@@ -29,3 +29,9 @@ C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcor
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CopyComplete
 C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb

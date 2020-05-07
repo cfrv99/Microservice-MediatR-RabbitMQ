@@ -15,9 +15,16 @@ namespace MicroRabbit.Banking.DAL.Repository
         {
             this.context = context;
         }
+
+        public void Add(Account entity)
+        {
+            context.Accounts.Add(entity);
+        }
+
         public IEnumerable<Account> GetAccounts()
         {
             return context.Accounts;
         }
+
     }
 }

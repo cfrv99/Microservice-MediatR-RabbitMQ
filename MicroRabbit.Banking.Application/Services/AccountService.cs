@@ -34,6 +34,7 @@ namespace MicroRabbit.Banking.Application.Services
                     accountTransfer.ToAccount,
                     accountTransfer.TransferAmount
                 );
+
             bus.SendCommand(createTransfer);
         }
     }
