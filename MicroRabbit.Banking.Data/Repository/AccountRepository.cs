@@ -1,4 +1,4 @@
-﻿using MicroRabbit.Banking.Data.Contexts;
+﻿using MicroRabbit.Banking.Data.Context;
 using MicroRabbit.Banking.Domain.Interfaces;
 using MicroRabbit.Banking.Domain.Models;
 using System;
@@ -9,15 +9,15 @@ namespace MicroRabbit.Banking.Data.Repository
 {
     public class AccountRepository : IAccountRepository
     {
-        private readonly BankingDbContext context;
+        private readonly BankingDbContext bankingDbContext;
 
-        public AccountRepository(BankingDbContext context)
+        public AccountRepository(BankingDbContext bankingDbContext)
         {
-            this.context = context;
+            this.bankingDbContext = bankingDbContext;
         }
         public IEnumerable<Account> GetAccounts()
         {
-            return context.Accounts;
+            return bankingDbContext.Accounts;
         }
     }
 }

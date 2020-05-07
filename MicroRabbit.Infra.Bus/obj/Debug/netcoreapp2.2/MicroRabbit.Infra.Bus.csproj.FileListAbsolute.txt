@@ -1,0 +1,12 @@
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.deps.json
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csproj.CopyComplete
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb

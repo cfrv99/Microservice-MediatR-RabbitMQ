@@ -33,7 +33,8 @@ namespace MicroRabbit.Infra.Bus
 
         public void Publish<T>(T @event) where T : Event
         {
-            var factory = new ConnectionFactory() { HostName = "localhost" };
+            var factory = new ConnectionFactory();
+            factory.Uri = new Uri("amqp://kuzzntna:sPmjUpmaMLW-2S-yGhemcwzz1cByDCdN@baboon.rmq.cloudamqp.com/kuzzntna");
             using (var connection = factory.CreateConnection())
             {
                 using (var channel = connection.CreateModel())
@@ -74,9 +75,9 @@ namespace MicroRabbit.Infra.Bus
         {
             var factory = new ConnectionFactory()
             {
-                HostName = "localhost",
                 DispatchConsumersAsync = true
             };
+            factory.Uri = new Uri("amqp://kuzzntna:sPmjUpmaMLW-2S-yGhemcwzz1cByDCdN@baboon.rmq.cloudamqp.com/kuzzntna");
             var connection = factory.CreateConnection();
             var channel = connection.CreateModel();
             var eventName = typeof(T).Name;
