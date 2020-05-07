@@ -1,0 +1,8 @@
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.deps.json
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfo.cs
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.json
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache
