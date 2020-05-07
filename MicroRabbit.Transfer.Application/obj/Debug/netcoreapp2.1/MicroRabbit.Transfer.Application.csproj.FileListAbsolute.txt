@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.deps.json
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Data.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Murad\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Transfer.Application.csproj.CopyComplete
